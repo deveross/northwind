@@ -1,0 +1,15 @@
+/* .p-fixed{
+    position:fixed;
+    z-index: 1;
+} 
+
+.navbar-left{
+    position: absolute;
+    right:5px;
+} */
+nav{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/* - */
